@@ -38,7 +38,8 @@ Proporcione detalles adicionales sobre su proyecto.
 nuestro proyecto consta de una app interactiva que permite a los usuarios conocer datos importantes acerca del sol y como influye en el clima espacial y terrestre con la guia de un personaje ficticio que actuara como guia y brindara pequeñas descripciones tanto para despertar el interes de los usuarios como de dar indicaciones basicas para que el usuario comprenda correctamente cada uno de los datos, los cuales se obtuvieron dela base de datos de la NASA acerca del viento solar y el indice de perturbacion magnetica ejerccida por el sol cuando ocurren las tormentas geomagneticas. Mientras que como un complemento se enlazo los datos de indices de perturbacion geomagnetica y se los represento como un semaforo para que el usuario reconozca en tiempo real como afectan estos eventos a las  telecomunicaciones y servicios que se encuentra fuera de la orbita terrestre.
     
 - **¿Cómo funciona?**
-    es tratar de explicar la informacion que se recolecta del viento solar y de sus efectos a traves de sentidos como la vista y el audio ,atraves del analisis de esta data para dar hechos interensantes como la melodia de la tempratura del viernto solar , ademas de poder visualizar la intensidad de interferencia del sol 
+    it explains the information that is collected about the solar wind and its effects throught the senses such as the view a
+    es tratar de explicar la informacion que se recolecta del viento solar y de sus efectos a traves de sentidos como la vista y el audio ,atraves del analisis de esta data para dar hechos interensantes como la melodia de la tempratura del viernto solar , ademas de poder visualizar la intensidad de interferencia del sol en la tierra a traves de una experiencia visual con  un foco rgb atraves de una conexion con un modulo wifi sp32
     
 - **¿Qué beneficios tiene?**
     ayuda a la gente a entender acerca del universo en el que vivimos a
