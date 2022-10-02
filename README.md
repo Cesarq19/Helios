@@ -73,11 +73,10 @@ https://www-app3.gfz-potsdam.de/kp_index/Kp_ap_Ap_SN_F107_nowcast.txt
     At the beginning we were uncertain about which project we should choose because it was our first time to join such a huge event. Through out the challenge we faced some difficulties like no internet conection during the first day but above that we complete succesfully what we proposed as the solution to the challenge. 
     
 - **What did you learn?**
-    We learn the importance of group work and to respect 
-    
+    We learnt the importance of group work and to respect each others ideas. In addtion, we get to know more about what Nasa do by manipulating and understand their datasets.    
     
 - **What inspired your team to choose this challenge?**
-    
+    This challenge in particular gather our atention, before choosing it we learnt a little bit about Parker Solar Probe, how it works an its importance. We found this really interesting that we wanted to share what we just have learnt to other people as well.
     
 - **What was your approach to developing this project?**
     
