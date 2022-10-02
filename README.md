@@ -30,17 +30,19 @@ Cargue su demo en un sitio externo (un servicio de alojamiento basado en la nube
 Proporcione detalles adicionales sobre su proyecto.
 
 - **¿Qué hace exactamente?**
-nuestro proyecto consta de una app interactiva que permite a los usuarios conocer datos importantes acerca del sol y como influye en el clima espacial y terrestre con la guia de un personaje ficticio que actuara como guia y brindara pequeñas descripciones tanto para despertar el interes de los usuarios como de dar indicaciones basicas para que el usuario comprenda correctamente cada uno de los datos, los cuales se obtuvieron dela base de datos de la NASA acerca del viento solar y el indice de perturbacion magnetica ejerccida por el sol cuando ocurren las tormentas geomagneticas. Mientras que como un complemento se enlazo los datos de indices de perturbacion geomagnetica y se los represento como un semaforo para que el usuario reconozca en tiempo real como afectan estos eventos a las  telecomunicaciones y servicios que se encuentra fuera de la orbita terrestre.
+
+Our project consists of an interactive app that allows users to know important data about the sun and how it influences space and terrestrial weather with the guidance of a fictional character who will act as a guide and provide short descriptions to arouse the interest of users. as well as giving basic indications so that the user correctly understands each of the data, which were obtained from the NASA database about the solar wind and the index of magnetic disturbance exerted by the sun when geomagnetic storms occur. While as a complement, the geomagnetic disturbance index data was linked and represented as a traffic light so that the user can recognize in real time how these events affect telecommunications and services that are outside the Earth's orbit.
     
 - **¿Cómo funciona?**
-    it explains the information that is collected about the solar wind and its effects throught the senses such as the view a
-    es tratar de explicar la informacion que se recolecta del viento solar y de sus efectos a traves de sentidos como la vista y el audio ,atraves del analisis de esta data para dar hechos interensantes como la melodia de la tempratura del viernto solar , ademas de poder visualizar la intensidad de interferencia del sol en la tierra a traves de una experiencia visual con  un foco rgb atraves de una conexion con un modulo wifi sp32
+    it explains the information that is collected about the solar wind and its effects with  senses such as view and sounds throught the analysis  of this data with purpose of giving  interesting facts about this data ,reprensenting the temperature  of the solar wind as a sound , also being able to see the intensity of the interference of solar explosion on the earth throught a visual experienc with a rgb bulb using a wifi module sp32.
+   
     
 - **¿Qué beneficios tiene?**
     ayuda a la gente a entender acerca del universo en el que vivimos a
     
 - **¿Qué esperas lograr?**
-    motivar a las personas a conocer acerca de  lo interesante que puede ser nuestro universo y de las diferentes maneras que podemos entenderlo y analizarlo ademas de ayudarlos a entender de una manera divertida acerca de lo marivolloso del espacio sin tener que complicarse de enterder datos complicados .
+    motivate the population to know about the  interesting that can be the  universe and the diferents ways in wich we can understand it and analize it , also the app helps us to understand in a interesting and funnt way the marverlous that ours universe can be without the worries of understanding complexity of the data .
+   
     
 - **Qué herramientas, lenguajes de codificación.**
     we used diverse tools as python  and libraries as matplotliba, pandas , numpy and pygame to obtain,treat, filter and normalize  the data for  the process of sonification to turn the data of the temperature on real time into music . 
