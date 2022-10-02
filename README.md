@@ -1,36 +1,20 @@
-# Formulario de Entrega
+# Project Submission
 
-### Proyect Title
+### HELIOS
 
-Team Name:
+Team Name: Solar Coders
 
-Solar Coders
-
-App Name (opciones):
-
-- Solaris App
-
----
+App Name: Helios
 
 ### High-Level Project Summary
 
-Proporcione un  resumen de alto nivel de su proyecto. 
-
-- **¿Qué  desarrollaste?**
-    
-    
-- **¿Cómo "resuelve" el desafío?**
-    
-    
-- **¿Por qué es importante?**
-    
-    
-
+- 
+We developed an interactive movil app to help the general public to understand the information about the solar wind and its effects on the Earth, we provide them with visual and sound experience of how space would be. In addition we implemented a prototype linked to the app that will help the user to know in real time how much our geomagnetic field in the Earth is affected by the energy of the sun. With our app and device we look forward to attract the interest of many people into the space world.
 ---
 
 ### Link to Final Project
 
-Cargue  todo  su proyecto final en un sitio externo (un servicio de alojamiento basado en la nube  o repositorio  de código, si su proyecto utiliza código) y proporcionar un enlace de acceso público (es decir, el acceso no debe requerir permiso o registro).
+
 
 **GitHub**
 
@@ -51,10 +35,9 @@ Cargue su demo en un sitio externo (un servicio de alojamiento basado en la nube
 Proporcione detalles adicionales sobre su proyecto.
 
 - **¿Qué hace exactamente?**
-    we use datasets from the Nasa agency and the solar parker probe , to explain interesting facts that th general population could undertand about the spacial weather and the solar wind , also showing  interesting  ways of using the data  by diferent senses  like view, sound  obteined by the solar parker probe.
+    
     
 - **¿Cómo funciona?**
-    we collect real time data obteined by the solar parker probe and use python and libraries as matplotlib , pandas,numpy and pygame , to filter and normalize the data, about the time and the plasma measured  all this  to do a mapping with musical tones , that as a result  we get an  audio from the data of the solar wind.
     
     
 - **¿Qué beneficios tiene?**
@@ -79,6 +62,9 @@ Proporcione detalles específicos sobre qué datos de la agencia espacial utiliz
 </aside>
 
 [Parker Solar Probe](http://parkersolarprobe.jhuapl.edu/)
+https://services.swpc.noaa.gov/products/solar-wind/ (Para sonificación)
+https://www-app3.gfz-potsdam.de/kp_index/Kp_ap_Ap_SN_F107_nowcast.txt
+
 
 ---
 
@@ -107,12 +93,14 @@ Proporcione detalles específicos sobre qué datos de la agencia espacial utiliz
 
 ### References
 
-Enumere todos los datos, recursos y herramientas utilizados en su proyecto.  Los recursos deben incluir cualquier código, texto e imágenes (incluso si son de código abierto o están disponibles gratuitamente) que utilizó al crear la solución.  Si está  utilizando  material con derechos de autor, asegúresede tener permiso para usarlos.
+https://www.zamzar.com/convert/midi-to-mp3/
+https://github.com/SYSTEMSounds/sonification-tutorials/blob/main/data2midi-part1.ipynb
 
 **SoundCloud Nasa**
-
 [https://soundcloud.com/nasa/sets/solar-system-beyond-sounds](https://soundcloud.com/nasa/sets/solar-system-beyond-sounds)
 
-Sun’sImages
-
+**Sun’sImages**
 [https://sdo.gsfc.nasa.gov/data/](https://sdo.gsfc.nasa.gov/data/)
+
+**Animations**
+http://parkersolarprobe.jhuapl.edu/Multimedia/Animations.php#Animations
