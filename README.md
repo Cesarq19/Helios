@@ -43,7 +43,8 @@ Our project consists of an interactive app that allows users to know important d
    
     
 - **¿Qué beneficios tiene?**
-    ayuda a la gente a entender acerca del universo en el que vivimos a
+    broadcasting the science about the space to the population that dont have a lot of knowledge about it  and being able to understand many phenomenas.
+
     
 - **¿Qué esperas lograr?**
     motivate the population to know about the  interesting that can be the  universe and the diferents ways in wich we can understand it and analize it , also the app helps us to understand in a interesting and funnt way the marverlous that ours universe can be without the worries of understanding complexity of the data .
