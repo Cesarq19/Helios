@@ -8,17 +8,15 @@ App Name: Helios
 
 ### High-Level Project Summary
 
-- 
 We developed an interactive movil app to help the general public to understand the information about the solar wind and its effects on the Earth, we provide them with visual and sound experience of how space would be. In addition we implemented a prototype linked to the app that will help the user to know in real time how much our geomagnetic field in the Earth is affected by the energy of the sun. With our app and device we look forward to attract the interest of many people into the space world.
----
 
 ### Link to Final Project
 
-
-
 **GitHub**
+https://github.com/Cesarq19/Helios.git
 
----
+**Simulation Prototype**
+https://wokwi.com/projects/344391114323657298
 
 ### Link to Project "Demo"
 
@@ -54,10 +52,8 @@ Proporcione detalles adicionales sobre su proyecto.
 
 ### Space Agency Data
 
-Proporcione detalles específicos sobre qué datos de la agencia espacial utilizó en su proyecto, cómo los usó o cómo inspiró su proyecto.
 
-<aside>
-💡 Recuerde: Le invitamos a utilizar cualquier dato abierto en su proyecto. Sin embargo, para ser elegible para el Jurado Global, debe usar al menos algunos datos de código abierto de la NASA y / o de uno de los Socios de la Agencia Espacial para 2022 (Agencia Espacial Australiana, Agencia Espacial Brasileña, Agencia Espacial Canadiense, Agencia Espacial Europea, Organización de Investigación Espacial de la India, Agencia de Exploración Aeroespacial del Japón, Agencia Espacial Mexicana, Comisión Nacional de Actividades Espaciales de Argentina, Agencia Nacional de Ciencias Espaciales de Bahrein, Agencia Espacial Paraguaya, Espacio Nacional de Sudáfrica Agencia).
+Thanks to Helmholtz Centre Potsdam (German Research Centre for Geosciences) we use realtime Kp indexes and build a prototype with the idea to be a physical indicator of the intensity of perturbances that affects the magnetic field on Earth. For this, we used an online simulator called Wokwi to work with the ESP32 microcontroller, we connected it to the internet and recollect the information about the Kp, which is updated every 3 hours and so our rgb led that visually (using semaphore parameters) helps the user know how much our magnectic field is affected by the sun and provide the experience to be part of the Nasa team from their homes.
 
 </aside>
 
