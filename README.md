@@ -38,16 +38,19 @@ Proporcione detalles adicionales sobre su proyecto.
     
     
 - **¿Cómo funciona?**
-    
+    es tratar de explicar la informacion que se recolecta del viento solar y de sus efectos a traves de sentidos como la vista y el audio ,atraves del analisis de esta data para dar hechos interensantes como la melodia de la tempratura del viernto solar , ademas de poder visualizar la intensidad de interferencia del sol 
     
 - **¿Qué beneficios tiene?**
-    
+    ayuda a la gente a entender acerca del universo en el que vivimos a
     
 - **¿Qué esperas lograr?**
-    
+    motivar a las personas a conocer acerca de  lo interesante que puede ser nuestro universo y de las diferentes maneras que podemos entenderlo y analizarlo ademas de ayudarlos a entender de una manera divertida acerca de lo marivolloso del espacio sin tener que complicarse de enterder datos complicados .
     
 - **Qué herramientas, lenguajes de codificación.**
-    
+    we used diverse tools as python  and libraries as matplotliba, pandas , numpy and pygame to obtain,treat, filter and normalize  the data for  the process of sonification to turn the data of the temperature on real time into music . 
+    we used c++ to obtain data about the kp index and its effects on the earth to conect it to a wifi module sp32 and with this  show throught a rgb bulb the intensity of the magnitud of the rgb .
+    we used figma website to design the  application layouts and canvas to get all character designs .
+    Also using android studio to build the app .
     
 
 ---
