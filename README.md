@@ -51,9 +51,10 @@ Cargue su demo en un sitio externo (un servicio de alojamiento basado en la nube
 Proporcione detalles adicionales sobre su proyecto.
 
 - **¿Qué hace exactamente?**
-    
+    we use datasets from the Nasa agency and the solar parker probe , to explain interesting facts that th general population could undertand about the spacial weather and the solar wind , also showing  interesting  ways of using the data  by diferent senses  like view, sound  obteined by the solar parker probe.
     
 - **¿Cómo funciona?**
+    we collect real time data obteined by the solar parker probe and use python and libraries as matplotlib , pandas,numpy and pygame , to filter and normalize the data, about the time and the plasma measured  all this  to do a mapping with musical tones , that as a result  we get an  audio from the data of the solar wind.
     
     
 - **¿Qué beneficios tiene?**
