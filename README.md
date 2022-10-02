@@ -56,7 +56,7 @@ Our project consists of an interactive app that allows users to know important d
 
 
 Thanks to Helmholtz Centre Potsdam (German Research Centre for Geosciences) we use realtime Kp indexes and build a prototype with the idea to be a physical indicator of the intensity of perturbances that affects the magnetic field on Earth. For this, we used an online simulator called Wokwi to work with the ESP32 microcontroller, we connected it to the internet and recollect the information about the Kp, which is updated every 3 hours and so our rgb led that visually (using semaphore parameters) helps the user know how much our magnectic field is affected by the sun and provide the experience to be part of the Nasa team from their homes.
-
+based on a project about turning the impacts of meteors with the moon  into music donde by Dr. Matt Russo, astrophysicist, musician, and NASA sonification specialist we decided to turn the temperature of the solar wind into music using the sonification technique , first we collect the data on real time from the solar parker  using web scrapping and we treat ,filter,normalize and scale the data using pandas and numpy, after this we mapped the data with musical tones to reproduce a music based on the temperature of the solar wind measured by the solar parker probe.
 </aside>
 
 [Parker Solar Probe](http://parkersolarprobe.jhuapl.edu/)
