@@ -27,25 +27,23 @@ Cargue su demo en un sitio externo (un servicio de alojamiento basado en la nube
 
 ### Detailed Project Description
 
-Proporcione detalles adicionales sobre su proyecto.
-
-- **¿Qué hace exactamente?**
+- **What exactly does it do?**
 
 Our project consists of an interactive app that allows users to know important data about the sun and how it influences space and terrestrial weather with the guidance of a fictional character who will act as a guide and provide short descriptions to arouse the interest of users. as well as giving basic indications so that the user correctly understands each of the data, which were obtained from the NASA database about the solar wind and the index of magnetic disturbance exerted by the sun when geomagnetic storms occur. While as a complement, the geomagnetic disturbance index data was linked and represented as a traffic light so that the user can recognize in real time how these events affect telecommunications and services that are outside the Earth's orbit.
     
-- **¿Cómo funciona?**
+- **How does it work?**
     it explains the information that is collected about the solar wind and its effects with  senses such as view and sounds throught the analysis  of this data with purpose of giving  interesting facts about this data ,reprensenting the temperature  of the solar wind as a sound , also being able to see the intensity of the interference of solar explosion on the earth throught a visual experienc with a rgb bulb using a wifi module sp32.
    
     
-- **¿Qué beneficios tiene?**
+- **What benefits does it have**
     broadcasting the science about the space to the population that dont have a lot of knowledge about it  and being able to understand many phenomenas.
 
     
-- **¿Qué esperas lograr?**
+- **What do you hope to achieve**
     motivate the population to know about the  interesting that can be the  universe and the diferents ways in wich we can understand it and analize it , also the app helps us to understand in a interesting and funnt way the marverlous that ours universe can be without the worries of understanding complexity of the data .
    
     
-- **Qué herramientas, lenguajes de codificación.**
+- **What tools, coding languages, hardware, or software did you use to develop your project?**
     we used diverse tools as python  and libraries as matplotliba, pandas , numpy and pygame to obtain,treat, filter and normalize  the data for  the process of sonification to turn the data of the temperature on real time into music . 
     we used c++ to obtain data about the kp index and its effects on the earth to conect it to a wifi module sp32 and with this  show throught a rgb bulb the intensity of the magnitud of the rgb .
     we used figma website to design the  application layouts and canvas to get all character designs .
@@ -70,24 +68,11 @@ https://www-app3.gfz-potsdam.de/kp_index/Kp_ap_Ap_SN_F107_nowcast.txt
 
 ### Hackathon Journey
 
-- **How would you describe your Space Apps experience?**
-    At the beginning we were uncertain about which project we should choose because it was our first time to join such a huge event. Through out the challenge we faced some difficulties like no internet conection during the first day but above that we complete succesfully what we proposed as the solution to the challenge. 
+    At the beginning we were uncertain about which project we should choose because it was our first time to join such a huge event. Through out the challenge we faced some difficulties like no internet conection during the first day but above that we complete succesfully what we proposed as the solution to the challenge. We learnt the importance of group work and to respect each others ideas. In addtion, we get to know more about what Nasa do by manipulating and understand their datasets.    
     
-- **What did you learn?**
-    We learnt the importance of group work and to respect each others ideas. In addtion, we get to know more about what Nasa do by manipulating and understand their datasets.    
-    
-- **What inspired your team to choose this challenge?**
     This challenge in particular gather our atention, before choosing it we learnt a little bit about Parker Solar Probe, how it works an its importance. We found this really interesting that we wanted to share what we just have learnt to other people as well.
     
-- **What was your approach to developing this project?**
-    
-    
-- **How did your team resolve setbacks and challenges?**
-    
-    
-- **Is there anyone you'd like to thank and why?**
-    
-    
+    We would like to specially thank our local mentors, who guided us and gave us advices so we could launch our proposal succesfully and the ones in Discord, who provided us with data.    
 
 ---
 
