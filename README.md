@@ -1,13 +1,10 @@
 # Project Submission
 
 ### HELIOS
-
 Team Name: Solar Coders
-
 App Name: Helios
 
 ### High-Level Project Summary
-
 We developed an interactive movil app to help the general public to understand the information about the solar wind and its effects on the Earth, we provide them with visual and sound experience of how space would be. In addition we implemented a prototype linked to the app that will help the user to know in real time how much our geomagnetic field in the Earth is affected by the energy of the sun. With our app and device we look forward to attract the interest of many people into the space world.
 
 ### Link to Final Project
@@ -70,22 +67,23 @@ https://www-app3.gfz-potsdam.de/kp_index/Kp_ap_Ap_SN_F107_nowcast.txt
 
 ### Hackathon Journey
 
-- **¿Cómo describirías tu experiencia en Space Apps?**
+- **How would you describe your Space Apps experience?**
+    At the beginning we were uncertain about which project we should choose because it was our first time to join such a huge event. Through out the challenge we faced some difficulties like no internet conection during the first day but above that we complete succesfully what we proposed as the solution to the challenge. 
+    
+- **What did you learn?**
+    We learn the importance of group work and to respect 
     
     
-- **¿Qué aprendiste?**
+- **What inspired your team to choose this challenge?**
     
     
-- **¿Qué inspiró a su equipo a elegir este desafío?**
+- **What was your approach to developing this project?**
     
     
-- **¿Cuál fue su enfoque para desarrollar este proyecto?**
+- **How did your team resolve setbacks and challenges?**
     
     
-- **¿Cómo resolvió su equipo los contratiempos y desafíos?**
-    
-    
-- **¿Hay alguien a quien te gustaría agradecer y por qué?**
+- **Is there anyone you'd like to thank and why?**
     
     
 
@@ -97,10 +95,10 @@ https://www.zamzar.com/convert/midi-to-mp3/
 https://github.com/SYSTEMSounds/sonification-tutorials/blob/main/data2midi-part1.ipynb
 
 **SoundCloud Nasa**
-[https://soundcloud.com/nasa/sets/solar-system-beyond-sounds](https://soundcloud.com/nasa/sets/solar-system-beyond-sounds)
+https://soundcloud.com/nasa/sets/solar-system-beyond-sounds
 
 **Sun’sImages**
-[https://sdo.gsfc.nasa.gov/data/](https://sdo.gsfc.nasa.gov/data/)
+https://sdo.gsfc.nasa.gov/data/
 
 **Animations**
 http://parkersolarprobe.jhuapl.edu/Multimedia/Animations.php#Animations
