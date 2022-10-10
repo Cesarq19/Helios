@@ -16,15 +16,13 @@ https://github.com/Cesarq19/Helios.git
 https://wokwi.com/projects/344391114323657298
 
 **Figma**
-https://www.figma.com/proto/2kwf3x6XR7zQLPdFXZUhxd/HeliusCKN?node-id=212%3A73&scaling=scale-down&page-id=3%3A4&starting-point-node-id=3%3A6
+https://www.figma.com/proto/2kwf3x6XR7zQLPdFXZUhxd/HeliusCKN?node-id=3%3A6&scaling=scale-down&page-id=3%3A4&starting-point-node-id=3%3A6
 
 ### Link to Project "Demo"
 
-**YouTube**
+    **YouTube**
+    https://www.youtube.com/watch?v=0tmyp7iEcHo
 
-**Canva Presentation**
-
----
 
 ### Detailed Project Description
 
